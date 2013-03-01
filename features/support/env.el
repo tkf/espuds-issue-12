@@ -17,6 +17,7 @@
 
 (require 'espuds)
 (require 'ert)
+(require 'org)
 
 
 (Setup
